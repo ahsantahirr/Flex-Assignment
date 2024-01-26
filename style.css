@@ -1,0 +1,44 @@
+.container {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    height: 625px;
+    background-color: #3c40c6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 50px;
+    flex-direction: row;
+
+}
+
+.container>div {
+    height: 200px;
+    border: 10px solid white;
+    width: 300px;
+    background-color: white;
+    box-shadow: 5px 5px 5px 5px rgb(0, 0, 0);
+
+}
+
+img {
+    width: 300px;
+    height: 160px;
+}
+
+h4 {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color:white;
+    font-weight: bolder;
+    padding: 30px;
+    background-color: #3c40c6;
+}

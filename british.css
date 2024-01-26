@@ -1,0 +1,264 @@
+nav {
+    height: 60px;
+}
+
+nav>button {
+    height: 35px;
+    width: 80px;
+    background-color: white;
+    border: none;
+    padding-top: 20px;
+}
+
+img {
+    width: 70px;
+    height: 30px;
+}
+
+nav>h3 {
+    display: inline;
+    border: 1px solid black;
+    margin-left: 440px;
+    position: fixed;
+    background-color: black;
+    color: whitesmoke;
+    width: 300px;
+    text-align: center;
+    height: 30px;
+
+}
+
+.container1 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1>div {
+    height: 130px;
+    width: 250px;
+ 
+}
+
+.item1 {
+    background-color: #00a8ff;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+.item2 {
+    background-color: #9c88ff;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item3 {
+    background-color: #fbc531;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+.item4 {
+    background-color: #4cd137;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item5 {
+    background-color: #487eb0;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item6 {
+    background-color: #0097e6;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+.item7 {
+    background-color: #8c7ae6;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item8 {
+    background-color:#e1b12c;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item9 {
+    background-color: #44bd32;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  
+}
+
+.item10 {
+    background-color: #40739e;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+.item11 {
+    background-color: #e84118;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.item12 {
+    background-color: #f5f6fa;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.item13 {
+    background-color: #7f8fa6;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+  
+}
+
+.item14 {
+    background-color: #273c75;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item15 {
+    background-color: #353b48;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item16 {
+    background-color: #c23616;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+ 
+}
+
+.item17 {
+    background-color: #dcdde1;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item18 {
+    background-color: #718093;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+   
+}
+
+.item19 {
+    background-color: #192a56;
+
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+.item20 {
+    background-color: #2f3640;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    
+}

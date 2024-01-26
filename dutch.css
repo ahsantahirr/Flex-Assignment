@@ -1,0 +1,264 @@
+nav {
+    height: 60px;
+}
+
+nav>button {
+    height: 35px;
+    width: 80px;
+    background-color: white;
+    border: none;
+    padding-top: 20px;
+}
+
+img {
+    width: 70px;
+    height: 30px;
+}
+
+nav>h3 {
+    display: inline;
+    border: 1px solid black;
+    margin-left: 440px;
+    position: fixed;
+    background-color: black;
+    color: whitesmoke;
+    width: 300px;
+    text-align: center;
+    height: 30px;
+
+}
+
+.container1 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1>div {
+    height: 130px;
+    width: 250px;
+
+}
+
+.item1 {
+    background-color: #FFC312;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item2 {
+    background-color: #C4E538;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item3 {
+    background-color: #12CBC4;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item4 {
+    background-color: #FDA7DF;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item5 {
+    background-color: #ED4C67;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item6 {
+    background-color: #F79F1F;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item7 {
+    background-color: #A3CB38;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item8 {
+    background-color: #1289A7;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item9 {
+    background-color: #D980FA;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item10 {
+    background-color: #B53471;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item11 {
+    background-color: #EE5A24;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.item12 {
+    background-color: #009432;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.item13 {
+    background-color: #0652DD;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item14 {
+    background-color:#9980FA;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item15 {
+    background-color: #833471;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item16 {
+    background-color: #EA2027;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item17 {
+    background-color: #006266;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item18 {
+    background-color: #1B1464;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item19 {
+    background-color: #5758BB;
+
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item20 {
+    background-color:#6F1E51;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}

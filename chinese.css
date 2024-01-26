@@ -1,0 +1,264 @@
+nav {
+    height: 60px;
+}
+
+nav>button {
+    height: 35px;
+    width: 80px;
+    background-color: white;
+    border: none;
+    padding-top: 20px;
+}
+
+img {
+    width: 70px;
+    height: 30px;
+}
+
+nav>h3 {
+    display: inline;
+    border: 1px solid black;
+    margin-left: 440px;
+    position: fixed;
+    background-color: black;
+    color: whitesmoke;
+    width: 300px;
+    text-align: center;
+    height: 30px;
+
+}
+
+.container1 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1>div {
+    height: 130px;
+    width: 250px;
+
+}
+
+.item1 {
+    background-color: #eccc68;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item2 {
+    background-color: #ff7f50;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item3 {
+    background-color: #ff6b81;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item4 {
+    background-color: #a4b0be;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item5 {
+    background-color: #57606f;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item6 {
+    background-color: #ffa502;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item7 {
+    background-color: #ff6348;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item8 {
+    background-color: #ff4757;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item9 {
+    background-color: #747d8c;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item10 {
+    background-color: #2f3542;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item11 {
+    background-color: #7bed9f;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.item12 {
+    background-color: #70a1ff;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.item13 {
+    background-color: #5352ed;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item14 {
+    background-color: #ffffff;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item15 {
+    background-color: #dfe4ea;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item16 {
+    background-color: #2ed573;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item17 {
+    background-color: #1e90ff;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item18 {
+    background-color: #3742fa;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item19 {
+    background-color: #f1f2f6;
+
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.item20 {
+    background-color: #ced6e0;
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
